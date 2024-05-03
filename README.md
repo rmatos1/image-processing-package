@@ -26,10 +26,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable) to install image_pr
 pip install image_processing
 ```
 
-## Author
-
-Roberio
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit)
